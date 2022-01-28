@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<html>
+	<head>
+		<meta charset="utf-8">
+		
+		<meta name="description" content="A student project website providing free resources designated 
+		to beginners in coding, alongside a blog section about the making of the website.">
+		
+		<meta name="keywords" content= "CodeBaggy, Coding, HTML, Front End, Blog, Free Resources, Beginners">
+		
+		<link rel="stylesheet" href="CodeBaggy.css">
+		<link rel="icon" href="C:\Users\erenf\OneDrive\Desktop\CodeBaggy\favicon\baggy.ico" type="image/x-icon"/>
+		<title>
+			CodeBaggy - Free Coding Resources For Beginners
+		</title>
+	</head>
+
+	<body>
+		<header>
+		
+		<div class="container">
+		  <h1> For beginners, for coding, for the future. </h1>
+		</div>
+		  </br> </br> </br>
+		  <img src="C:\Users\erenf\OneDrive\Desktop\CodeBaggy\img\baguette_drip.png" height="300px" width="185px" alt="baguette" />
+		  <p> This website aims to help beginners in coding by providing free resources. </p>
+		  </br>
+		 
+		</header>
+	<div>
+	</div>
+<nav>	
+	<p>Where do you want to go?</p>
+	<ul>	   
+	   <li> <a href= "#">Home </a> </li>
+	   <li> <a href= "#">Resources </a> </li>
+	   <li> <a href= "#">Purpose and Goals </a> </li>
+	</ul>
+	</br> </br>
+	
+	<section class= "home">
+	<h2> HOME </h2>
+
+	</section>
+	
+	<section class= "resources">
+	<h2> RESOURCES </h2>
+	</section>
+	
+	<section class= "purpose">
+	<h2> PURPOSE & GOALS </h2>
+	</section>
+</nav>
+	<aside> 
+	</aside>
+	</body>
+
+	<footer> 
+	<p> Site made by Eren Faruk Kahyaoglu. </p>
+	<a href="ottotinne2@gmail.com">Send email</a>
+	</footer>
+</html>
+
+
